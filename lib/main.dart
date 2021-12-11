@@ -32,7 +32,7 @@ class _MyAppState extends State<MyApp> {
         theme: theme.getTheme(),
         home: Scaffold(
           appBar: AppBar(
-            title: Text('Hybrid Theme'),
+            title: Text('Thinking About It'),
           ),
           body: Center(
             child: CupertinoSwitch(
